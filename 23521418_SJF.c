@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 #define SORT_BY_ARRIVAL 0
 #define SORT_BY_PID 1
 #define SORT_BY_BURST 2
